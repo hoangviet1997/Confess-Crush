@@ -1,4 +1,7 @@
 const CONFIG = {
+    <body>
+      <audio src="https://zingmp3.vn/album/Hon-Ca-Yeu-Single-Duc-Phuc/ZF69COZZ.html" autoplay></audio>
+    </body>
     titleWeb: "He luu người con gái anh yêu",
     introTitle: 'Bé Sang yêu dấu',
     introDesc: `Trái đất vốn lạ thường.
@@ -18,6 +21,4 @@ const CONFIG = {
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://fb.watch/gMxiAVNDv4/'
 }
-<body>
-      <audio src="https://zingmp3.vn/album/Hon-Ca-Yeu-Single-Duc-Phuc/ZF69COZZ.html" autoplay></audio>
-</body>
+
