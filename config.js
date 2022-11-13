@@ -18,3 +18,6 @@ const CONFIG = {
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://fb.watch/gMxiAVNDv4/'
 }
+<body>
+      <audio src="https://zingmp3.vn/album/Hon-Ca-Yeu-Single-Duc-Phuc/ZF69COZZ.html" autoplay></audio>
+</body>
